@@ -55,3 +55,12 @@ footer {
     margin: 40px 0;
     color: #888;
 }
+a {
+    text-decoration: none;
+    color: #ff4da6;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #ff1493;
+}
